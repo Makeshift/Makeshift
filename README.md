@@ -8,4 +8,4 @@ Feel free to explore the endless list of unfinished projects on my GitHub. You'l
 
 ---
 
-[![Makeshift's GitHub stats](https://github-readme-stats.vercel.app/api?username=makeshift&count_private=true&show_icons=true&theme=onedark&line_height=20)](https://github.com/Makeshift) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makeshift&count_private=true&show_icons=true&theme=onedark&hide=perl,css&langs_count=2)](https://github.com/Makeshift)
+[![Makeshift's GitHub stats](https://github-readme-stats.vercel.app/api?username=makeshift&count_private=true&show_icons=true&theme=onedark&line_height=20)](https://github.com/Makeshift) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makeshift&count_private=true&show_icons=true&theme=onedark&hide=html,css&langs_count=4&exclude_repo=dotfiles,freelancer_binis)](https://github.com/Makeshift)
