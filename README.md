@@ -2,7 +2,7 @@
 
 ## Hi!
 
-I'm Connor and I'm a Devops engineer specialising in Docker, AWS and Node.JS. I also go by Makeshift, because mashing things together to work in ways they were never intended is my thing.
+I'm Connor and I'm a Devops engineer specialising in Kubernetes, AWS and Typescript. I also go by Makeshift, because mashing things together to work in ways they were never intended is my thing.
 
 Feel free to explore the endless list of unfinished projects on my GitHub. You'll find projects to do with work, gaming, stuff for friends, and a bunch of other random one-off things. Some of them might even be useful!
 
